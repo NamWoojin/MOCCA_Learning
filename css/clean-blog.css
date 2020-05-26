@@ -416,3 +416,14 @@ footer .copyright {
 }
 
 .js #fouc{display: none}
+
+.weeklyTitle{
+  margin: 30px 0px 0px 30px;
+}
+
+.center_Title{
+  text-align: center
+}
+.center_Video{
+  text-align: center
+}
