@@ -19,7 +19,6 @@ p {
 
 p a {
   text-decoration: underline;
-
 }
 
 
@@ -422,8 +421,16 @@ footer .copyright {
 }
 
 .center_Title{
-  text-align: center
+  text-align: center;
 }
 .center_Video{
-  text-align: center
+  text-align: center;
 }
+
+#learning_week_thumbnail{ line-height: 300px; padding: 0px 0px 0px 15px;}
+
+#learning_week_cardheader{font-weight: 600;}
+
+.learning_week_button{ float: right; padding-right: 15px;}
+
+.padding_right_20{padding-right: 20px;}
