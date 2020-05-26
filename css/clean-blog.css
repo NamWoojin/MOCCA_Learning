@@ -38,14 +38,21 @@ a {
   transition: all 0.2s;
 }
 
-a:focus, a:hover {
+a:focus, a:hover{
   color: #0085A1;
+  text-decoration: underline;
+}
+
+
+ul .nondot{
+  list-style: none;
 }
 
 blockquote {
   font-style: italic;
   color: #868e96;
 }
+
 
 .section-heading {
   font-size: 36px;
