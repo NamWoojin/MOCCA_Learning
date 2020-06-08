@@ -438,8 +438,12 @@ footer .copyright {
 
 #learning_week_cardheader{font-weight: 600;}
 
-.learning_week_button{ float: right; padding-right: 15px;}
+.learning_card-body_height{height : 100%}
 
-.padding_right_20{padding-right: 20px;}
+.learning_card-text_height{height : 80%;}
 
-.padding_left_20{padding-left: 20px;}
+.learning_week_button{ height: 20%; float: right; padding-right: 15px;}
+
+.text-center {
+  text-align: center !important;
+}
